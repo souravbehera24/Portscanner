@@ -1,1 +1,2 @@
 # Portscanner
+A port scanner is a tool used in network security to identify open ports and services available on a networked device. It works by sending packets to specific ports on a target machine and analyzing the responses to determine the state of the ports. Port scanners are commonly used by network administrators to verify security policies, by attackers to find potential vulnerabilities, and by IT professionals for troubleshooting.
